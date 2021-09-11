@@ -1,1 +1,1 @@
-https://DenisEsipko.github.io/rsschool-cv/index.html
+https://DenisEsipko.github.io/cv-html-css/index.html
